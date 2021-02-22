@@ -1,6 +1,7 @@
 {
     "name": "fcc-mongo-mongoose-challenges",
-    "version": "0.0.1",
+    "author": "HOuadhour",
+    "version": "1.0.0",
     "description": "A boilerplate project",
     "main": "server.js",
     "scripts": {
@@ -9,11 +10,13 @@
     "dependencies": {
         "body-parser": "^1.15.2",
         "dotenv": "^8.2.0",
-        "express": "^4.12.4"
+        "express": "^4.12.4",
+        "mongodb": "^3.6.4",
+        "mongoose": "^5.11.17"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
+        "url": "https://github.com/HOuadhour/MongoDB-and-Mongoose.git"
     },
     "keywords": [
         "node",
